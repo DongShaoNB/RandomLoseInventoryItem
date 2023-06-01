@@ -1,0 +1,7 @@
+name: RandomLoseInventoryItem
+version: '${project.version}'
+main: cn.dsnbo.randomloseinventoryitem.RandomLoseInventoryItem
+api-version: 1.13
+authors: [DongShaoNB]
+description: Random lose inventory item
+website: dsnbo.cn
